@@ -20,8 +20,8 @@ Settings = {
         ["Chest"] = 0,
         ["Small Chest"] = 0,
         ["Vault"] = 0,
-        ["Safe"] = 3,
-        ["Present"] = 5
+        ["Safe"] = 0,
+        ["Present"] = 0
 	},
     ["Webhooks"] = {
         ["Server Hop Webhook"] = "https://discord.com/api/webhooks/1119527924073254932/BO_5LPrjdAM_x9yKomzSy92meWIqUT5ZtGj8LnV7sCTsbckhI0MfV4VouqVvaeEtDU4F",

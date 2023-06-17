@@ -1,6 +1,6 @@
 -- Important Variables
-local SCRIPT_NAME = "Rafa PSX GUI"
-local SCRIPT_VERSION = "v0.4" -- Hey rafa remember to change it before updating lmao
+local SCRIPT_NAME = "Sewy PSX GUI"
+local SCRIPT_VERSION = "v3" -- Hey rafa remember to change it before updating lmao
 
 -- Detect if the script has executed by AutoExec
 local AutoExecuted = false

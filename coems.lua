@@ -1557,8 +1557,8 @@ if tt >= Settings["Webhooks"]["Timeframe"] then
             ["content"] = "",
             ["embeds"] = {
 			    {
-			      ["title"] = "Time Frame Stat Update (" .. Settings["Webhooks"]["Timeframe"] .. "s)",
-			      ["description"] = "Gem update",
+			      ["title"] = "Cum Stat Update (" .. Settings["Webhooks"]["Timeframe"] .. "s)",
+			      ["description"] = "Cum update",
 			      ["color"] = tonumber(0x0f0063),
 			      ["fields"] = {
 			        {
@@ -1567,7 +1567,7 @@ if tt >= Settings["Webhooks"]["Timeframe"] then
 			        }
 			      },
 			      ["author"] = {
-			        ["name"] = "Mystic Farmer - Stats"
+			        ["name"] = "Sewy Farmer - Stats"
 			      }
 			    }
 			  }

@@ -497,7 +497,7 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 	local Window = Rayfield:CreateWindow({
 	   Name = "Pet Simulator GUI | by Sewy ",
 	   LoadingTitle = SCRIPT_NAME .. " " .. SCRIPT_VERSION,
-	   LoadingSubtitle = "by Rafa",
+	   LoadingSubtitle = "BY Sewy",
 	   ConfigurationSaving = {
 		  Enabled = true,
 		  FolderName = "Rafa",
@@ -2508,17 +2508,3 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 		end
 	end)
 end
-
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp

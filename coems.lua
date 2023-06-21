@@ -1,5 +1,5 @@
 -- Important Variables
-local SCRIPT_NAME = "Sewy PSX GUI"
+local SCRIPT_NAME = "SEWY PSX FARM"
 local SCRIPT_VERSION = "V3" -- Hey rafa remember to change it before updating lmao
 
 -- Detect if the script has executed by AutoExec
